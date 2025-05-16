@@ -1,0 +1,8 @@
+tqdm
+open3d
+scikit-learn
+pyproj
+trimesh
+shapely
+pygltflib
+osmnx

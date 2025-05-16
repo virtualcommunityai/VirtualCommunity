@@ -1,0 +1,16 @@
+secret.txt
+.idea/
+cache/
+data/
+*DS_Store
+texture*/
+streetview/
+streetview_inpaint/
+streetview*/
+blosm_data/
+__pycache__/
+*.blend
+pretrained_models/
+*.png
+*.jpg
+*.zip
